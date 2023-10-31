@@ -12,3 +12,12 @@ Algumas das soluções sugeridas incluem a  automação do  processo de cadastro
 ### Diagrama de Classes
 
 ![scrre](/UML/Universidade_Classe.png)
+
+
+### Prototipos 
+
+##### Esta é a representação gráfica referente a tela de cadastro referente ao aluno.
+
+
+
+![scrre](/Prototipos/CadastroAluno.png)
