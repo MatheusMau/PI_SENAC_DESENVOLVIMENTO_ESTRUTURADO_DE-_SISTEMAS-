@@ -16,8 +16,19 @@ Algumas das soluções sugeridas incluem a  automação do  processo de cadastro
 
 ### Prototipos 
 
+###Cadastro Aluno
+
 ##### Esta é a representação gráfica referente a tela de cadastro referente ao aluno.
 
 
 
 ![scrre](/Prototipos/CadastroAluno.png)
+
+
+###Cadastro Professor
+
+##### Esta é a representação gráfica referente a tela de cadastro referente ao Professor.
+
+
+
+![scrre](/Prototipos/CadastroProfessor.png)
