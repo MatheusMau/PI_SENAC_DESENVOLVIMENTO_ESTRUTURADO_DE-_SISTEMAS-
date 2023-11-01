@@ -38,9 +38,9 @@ Algumas das soluções sugeridas incluem a  automação do  processo de cadastro
 
 ![scrre](/Prototipos/CadastroProfessor.png)
 
-### Cadastro Professor
+### Cadastro Fornecedor
 
-##### Esta é a representação gráfica referente a tela de cadastro referente ao Professor.
+##### Esta é a representação gráfica referente a tela de cadastro referente do Fornecedor.
 
 
 
