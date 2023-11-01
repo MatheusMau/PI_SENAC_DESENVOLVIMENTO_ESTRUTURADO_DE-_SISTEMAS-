@@ -37,3 +37,11 @@ Algumas das soluções sugeridas incluem a  automação do  processo de cadastro
 
 
 ![scrre](/Prototipos/CadastroProfessor.png)
+
+### Cadastro Professor
+
+##### Esta é a representação gráfica referente a tela de cadastro referente ao Professor.
+
+
+
+![scrre](/Prototipos/CadastroFornecedor.png)
