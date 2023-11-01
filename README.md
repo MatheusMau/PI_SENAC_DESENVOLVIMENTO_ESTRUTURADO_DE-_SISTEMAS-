@@ -16,7 +16,7 @@ Algumas das soluções sugeridas incluem a  automação do  processo de cadastro
 
 ### Prototipos 
 
-###Cadastro Aluno
+### Cadastro Aluno
 
 ##### Esta é a representação gráfica referente a tela de cadastro referente ao aluno.
 
@@ -25,7 +25,7 @@ Algumas das soluções sugeridas incluem a  automação do  processo de cadastro
 ![scrre](/Prototipos/CadastroAluno.png)
 
 
-###Cadastro Professor
+### Cadastro Professor
 
 ##### Esta é a representação gráfica referente a tela de cadastro referente ao Professor.
 
