@@ -40,7 +40,7 @@ Algumas das soluções sugeridas incluem a  automação do  processo de cadastro
 
 ## Cadastro Forncedor
 
-##### Esta é a representação gráfica referente a tela de cadastro referente ao Professor.
+##### Esta é a representação gráfica referente a tela de cadastro referente ao Fornecedor.
 
 
 
