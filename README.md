@@ -16,6 +16,9 @@ Algumas das soluções sugeridas incluem a  automação do  processo de cadastro
 
 ### Prototipos 
 
+***Os prototipos podem ser acessados pelo link abaixo:***
+<p>https://www.canva.com/design/DAFy3zftsJU/xRIlePJFOX2InwwZskHUPg/edit</p>
+
 ### Cadastro Aluno
 
 ##### Esta é a representação gráfica referente a tela de cadastro referente ao aluno.
