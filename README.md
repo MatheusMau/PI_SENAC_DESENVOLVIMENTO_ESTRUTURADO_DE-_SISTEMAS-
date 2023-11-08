@@ -16,8 +16,8 @@ Algumas das soluções sugeridas incluem a  automação do  processo de cadastro
 
 ## Prototipós 
 
-***Os prototipos podem ser acessados pelo link abaixo:*** <p></p>
-[Prototipagem Canvas](https://document-export.canva.com/ftsJU/DAFy3zftsJU/34/preview/0001.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUHWDTJW6UD%2F20231031%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231031T122606Z&X-Amz-Expires=46782&X-Amz-Signature=9c608ec784c5ee0903a547745f277aa73a83ca3ef9f1060a5e69f6ccb335ec0f&X-Amz-SignedHeaders=host&response-expires=Wed%2C%2001%20Nov%202023%2001%3A25%3A48%20GMT)
+***Os protótipos podem ser acessados pelo link abaixo:*** <p></p>
+[Prototipagem Canvas] (https://www.canva.com/design/DAFy3zftsJU/xRIlePJFOX2InwwZskHUPg/view)
 
 
 
